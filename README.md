@@ -23,11 +23,12 @@ The SIEM project aimed to establish a controlled environment for simulating and 
 
 ## Steps
 
+![image1](image1.png)
 
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
 
-Example below.
+![image2](image2.png)
 
-*Ref 1: Network Diagram*
+
+
+![image3](image3.png)
