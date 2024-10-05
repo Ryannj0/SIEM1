@@ -23,7 +23,6 @@ The SIEM project aimed to establish a controlled environment for simulating and 
 
 ## Steps
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f7840c7f-e349-4f28-b859-daeef410e0ef/befe4a8c-8992-410f-905d-983b26fecba8/image.png)
 
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
